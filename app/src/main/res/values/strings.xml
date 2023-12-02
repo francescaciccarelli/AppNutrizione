@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">AppNutrizione</string>
+
+    <string name="login">Accedi</string>
+    <string name="signup">Non sei ancora registrato?</string>
+
+    <string name="back">Indietro</string>
+
+    <string name="welcome">Benvenuto</string>
+    <string name="introduction">Introduzione</string>
+    <string name="questionario">Compila il questionario!</string>
+
+    <string name="menu">Menù</string>
+    <string name="logout">Esci</string>
+    <string name="welcomeagain">Bentornato</string>
+    <string name="description">Descrizione generale utente</string>
+
+    <string name="registration">Benvenuto in app</string>
+    <string name="addusername">Inserisci il tuo username:</string>
+    <string name="addmail">Inserisci la tua email:</string>
+    <string name="addpassword">Inserisci la tua password:</string>
+    <string name="sendregistration">Registrati!</string>
+
 </resources>
